@@ -24,10 +24,8 @@ This project has been created using Eclipse, with the platform WINDOWS. The proj
 
 4)Save the code and run the code.
 
-5)It will Open UI Containing Two Buttons Compression and Decompreesion Choose the Options in which You want to Perform the Operations.
+5)You will be displayed with the menu choice of various options.The operations act upon the record file.
 
-6)You will be displayed with the menu choice of various options.The operations act upon the record file.
+6)Choose the option of your choice to be executed.
 
-7)Choose the option of your choice to be executed.
-
-8)Check the lzw files which are generated in the respective folder after execution.
+7)Check the lzw files which are generated in the respective folder after execution.
